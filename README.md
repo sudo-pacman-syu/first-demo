@@ -1,4 +1,3 @@
 # first-demo
 
-
-this modification made on the local branch
+Merge conflicts were resolved with a different revision
