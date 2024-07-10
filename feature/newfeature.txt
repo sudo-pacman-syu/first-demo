@@ -1,1 +1,3 @@
 This is a new commit from feature branch
+
+Making a new local modification
